@@ -17,9 +17,6 @@
  <a href="https://www.instagram.com/yunuss61/" target="_blank" rel="nofollow"><img alt="Yunus's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yunus-kara-2bb311172/" target="_blank" rel="nofollow"><img alt="Yunus's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-
-<br />
-
 ### Languages and Tools:
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></img>
@@ -32,7 +29,15 @@
 ---
 
 <br />
-<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.yunus6116.vercel.app/api?username=yunus6116&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yunus's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.yunus6116.vercel.app/api/top-langs/?username=yunus6116&layout=compact&theme=material-palenight" />
+</a>
+  
+
 
 
 [website]: https://yunus-kara.com/
