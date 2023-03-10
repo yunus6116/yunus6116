@@ -4,7 +4,7 @@ Hi 👋 My name is Yunus Kara
 Flutter Developer
 -----------------
 
-I have been developing with Flutter for more than 2 years. I always follow the innovations and take care to apply them in my projects.
+I have been developing applications with Flutter for about 3 years. I can develop mobile, tablet and web applications with Flutter. I am also very pationed to learn Swift to develop IOS applications.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [ynus.kara6116@gmail.com](mailto:ynus.kara6116@gmail.com)
